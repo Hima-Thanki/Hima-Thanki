@@ -1,7 +1,7 @@
 ### Hi, I’m @HimaThanki  👋
-<h4>🔭 I’m currently working on Freelancing.</h4>
-<h4>🌱 I’m currently learning python.</h4>
-<h4>📫 How to reach me: thankihima1006@gmail.com</h4>
+- 🔭 I’m currently working on Freelancing.
+- 🌱 I’m currently learning python.
+- 📫 How to reach me: thankihima1006@gmail.com
 
 
 <!--
