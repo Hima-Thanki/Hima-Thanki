@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<!--
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=HimaThanki&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimaThanki&hide=TeX&layout=compact&theme=prussian)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Hima-Thanki&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hima-Thanki&hide=TeX&layout=compact&theme=prussian)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HimaThanki.HimaThanki)-->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hima-Thanki.Hima-Thanki)
