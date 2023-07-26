@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Hima-Thanki&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hima-Thanki&hide=TeX&layout=compact&theme=prussian)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hima-Thanki%20&theme=rose-pine&border_radius=1.5&date_format=j%20M%5B%20Y%5D&card_width=770)](https://git.io/streak-stats)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hima-Thanki.Hima-Thanki)
