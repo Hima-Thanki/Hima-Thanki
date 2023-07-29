@@ -3,25 +3,31 @@
 <ol>
 <li>🔭 I’m currently working on Freelancing.</ul>
 <li>🌱 I’m currently learning python.</ul>
-<li>📫 How to reach me: thankihima1006@gmail.com</ul>
+
 </ol>
 <!--
 **Hima-Thanki/Hima-Thanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+<li>📫 How to reach me: thankihima1006@gmail.com</ul>
 -->
+
+## Show Me
+
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-00599C?style=flat-square&logo=LinkedIn)
+![Instagram](https://img.shields.io/badge/-Instagram-lightblue?style=flat-square&logo=Instagram)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1572B6?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-red?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=Python)
 ![PHP](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![MySQL](https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=mysql)
+
 
 ## Stats
 
