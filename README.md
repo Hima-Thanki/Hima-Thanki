@@ -13,9 +13,15 @@ Here are some ideas to get you started:
 
 ## Show Me
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-00599C?style=flat-square&logo=LinkedIn)
-![Instagram](https://img.shields.io/badge/-Instagram-lightblue?style=flat-square&logo=Instagram)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00599C?style=flat-square&logo=LinkedIn)][1]
+[![Instagram](https://img.shields.io/badge/-Instagram-lightblue?style=flat-square&logo=Instagram)][2]
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)][3]
+
+<!-- To Link your profile to the media buttons -->
+
+[1]: https://www.linkedin.com/in/hima-thanki-79a108235
+[2]: https://www.instagram.com/himathanki10
+[3]: https://www.github.com/Hima-Thanki
 
 ## Skills
 
