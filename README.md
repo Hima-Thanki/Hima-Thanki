@@ -1,6 +1,6 @@
-### 👋  Hi, I’m @HimaThanki 
-<hr>
+  ## $\Large{\mathcal{{👋 \ Hi \, I’m \color{darkred} @ HimaThanki}}}$
 <ol>
+  
 <li>🔭 I’m currently working on Freelancing.</ul>
 <li>🌱 I’m currently learning python.</ul>
 
