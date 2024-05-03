@@ -8,21 +8,16 @@
   <a href="https://www.linkedin.com/in/hima-thanki-79a108235">
     <img src="https://img.shields.io/badge/-LinkedIn-00599C?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/himathanki10">
-    <img src="https://img.shields.io/badge/-Instagram-skyblue?style=flat-square&logo=Instagram" alt="Youtube Badge"/>
-  </a>
   <a href="https://www.github.com/Hima-Thanki">
     <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white" alt="github Badge"/>
   </a>
 </div>
 <br>
 <ul>
-    <li>🔭 I’m currently working on Freelace.</li>
+    <li>🔭 I’m currently working as Freelancer.</li>
     <li>🌱 I’m currently learning Python.</li>
     <li>📫 How to reach me thankihima1006@gmail.com </li>
-    <li>👨‍💻 All of my projects are available at GitHub => @Hima-Thanki</li>
-    <li>📄 Know about my experiences at LinkedIn => hima-thanki</li>
-    <li>⚡ I interest in learning new technologies through development to gain knowledge more....</li>
+    <li>⚡ I am interested in learning new technologies through development to gain more knowledge...</li>
 </ul>
 
 
