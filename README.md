@@ -27,6 +27,4 @@
 
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hima-Thanki%20&theme=rose-pine&border_radius=1.5&date_format=j%20M%5B%20Y%5D&card_width=770)](https://git.io/streak-stats)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hima-Thanki.Hima-Thanki)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hima-Thankic.Hima-Thanki)
