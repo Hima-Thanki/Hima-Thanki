@@ -24,7 +24,3 @@
 ## Skills in Language and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,dotnet,react,python,html,css,php,vscode,androidstudio,kotlin,mysql,visualstudio,wordpress,cs,nodejs,linux,django,bootstrap,laravel,git,ps,powershell&theme=light)](https://skillicons.dev)
-
-## Stats
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hima-Thankic.Hima-Thanki)
