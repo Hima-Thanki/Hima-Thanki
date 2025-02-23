@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/hima-thanki-79a108235">
     <img src="https://img.shields.io/badge/-LinkedIn-00599C?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.github.com/Hima-Thanki">
-    <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white" alt="github Badge"/>
-  </a>
 </div>
 <br>
 <ul>
