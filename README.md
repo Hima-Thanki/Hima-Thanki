@@ -12,17 +12,14 @@
     <li>⚡ I am interested in learning new technologies through development to gain more knowledge...</li>
 </ul>
 
-
 ## Skills in Language and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,dotnet,react,python,html,css,php,vscode,androidstudio,kotlin,mysql,visualstudio,wordpress,cs,nodejs,linux,django,bootstrap,laravel,git,ps,powershell&theme=light)](https://skillicons.dev)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HimaThanki&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimaThanki&theme=tokyonight" height="180" />
 </div>
