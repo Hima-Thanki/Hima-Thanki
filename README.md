@@ -5,19 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=36BCF7&center=true&vCenter=true&width=650&height=35&lines=Building+digital+solutions+through+technology;Turning+ideas+into+practical+solutions;Creating+modern+web+experiences" alt="Animated introduction"/>
 </p>
 
-<h3 align="center">💻 Software Engineer | 🌐 Web Developer | 🎨 UI/UX Enthusiast</h3>
-
-<p align="center">
-  📍 Dubai, UAE 🇦🇪 &nbsp;|&nbsp; 💼 3+ Years Experience &nbsp;|&nbsp;
-  🚀 Exploring Full-Stack Development
-</p>
-
-<p align="center">
-  <a href="mailto:thankihima1006@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/hima-thanki-79a108235/">LinkedIn</a> •
-  <a href="https://hima-thanki.lovable.app/">Portfolio</a> •
-  <a href="https://github.com/Hima-Thanki?tab=repositories">Projects</a>
-</p>
+<h3 align="center">💻 Software Engineer | 🌐 Web Developer | 🎨 UI/UX Enthusiast | 🚀 Exploring Full-Stack Development </h3>
 
 ---
 
