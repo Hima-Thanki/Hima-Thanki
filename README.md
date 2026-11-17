@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Hima Thanki</h1>
+<h2>Hi 👋, I'm Hima Thanki</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=36BCF7&center=true&vCenter=true&width=650&height=35&lines=Building+digital+solutions+through+technology;Turning+ideas+into+practical+solutions;Creating+modern+web+experiences" alt="Animated introduction"/>
 </p>
 
-<h3 align="center">💻 Software Engineer | 🌐 Web Developer | 🎨 UI/UX Enthusiast | 🚀 Exploring Full-Stack Development </h3>
+<p align="center">💻 Software Engineer | 🌐 Web Developer | 🎨 UI/UX Enthusiast | 🚀 Exploring Full-Stack Development </p>
 
 ---
 
