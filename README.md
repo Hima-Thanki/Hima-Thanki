@@ -10,12 +10,11 @@
 
 ### 👨‍💻 About Me
 
-- 📍 Based in Dubai, UAE 🇦🇪
-- 💻 Software Engineer with a background in Computer Engineering and 3+ years of combined experience in web development and e-commerce.
-- 🌐 Experienced in Shopify, WordPress, HTML, CSS, JavaScript and PHP.
-- 🎨 Interested in UI/UX design, web applications and software development.
-- 🚀 Passionate about learning new technologies and building practical solutions.
-- 📫 Reach me at: **[Email](mailto:thankihima1006@gmail.com)**
+- 📍 Dubai, UAE 🇦🇪
+- 💻 Software Engineer with 3+ years of experience in web development and e-commerce.
+- 🛠️ Skills: HTML, CSS, JavaScript, PHP, Shopify & WordPress.
+- 🚀 Interested in full-stack development and building practical solutions.
+- 📫 [Email Me](mailto:thankihima1006@gmail.com)
 
 ---
 
