@@ -1,25 +1,75 @@
-<h1>Hi 👋, I'm HimaThanki</h1>
-<br>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/lebpnk3qVPAjBxIKKc/giphy.gif" width="250"/>
-</div>
-<h3 align="center">🚀 Full Stack Developer | 🌐 Web Designer | 🛠️ IT Solutions Provider</h3>
-<br>
-<ul>
-    <li>🔭 I’m currently working as Freelancer.</li>
-    <li>🌱 I’m currently learning Python.</li>
-    <li>📫 How to reach me engofmanvij@gmail.com </li>
-    <li>⚡ I am interested in learning new technologies through development to gain more knowledge...</li>
-</ul>
+<h1 align="center">Hi 👋, I'm Hima Thanki</h1>
 
-## Skills in Language and Tools
+<h3 align="center">💻 Software Engineer | 🌐 Web Developer | 🎨 UI/UX Enthusiast</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,dotnet,react,python,html,css,php,vscode,androidstudio,kotlin,mysql,visualstudio,wordpress,cs,nodejs,linux,django,bootstrap,laravel,git,ps,powershell&theme=light)](https://skillicons.dev)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=36BCF7&center=true&vCenter=true&width=750&height=60&lines=Building+digital+solutions+through+technology;Turning+ideas+into+practical+solutions;Creating+modern+and+user-friendly+web+experiences;Learning%2C+building+and+growing+every+day" alt="Animated introduction" />
+</p>
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
+---
+
+### 👨‍💻 About Me
+
+- 📍 Based in Dubai, UAE 🇦🇪
+- 💻 Software Engineer with a background in Computer Engineering and 3+ years of combined experience in web development and e-commerce.
+- 🌐 Experienced in Shopify, WordPress, HTML, CSS, JavaScript and PHP.
+- 🎨 Interested in UI/UX design, web applications and software development.
+- 🚀 Passionate about learning new technologies and building practical solutions.
+- 📫 Reach me at: **[Email](mailto:thankihima1006@gmail.com)**
+
+---
+
+### 🛠️ Languages, Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,mysql,git,github,vscode,ps,ai&perline=11" />
+</p>
+
+---
+
+### 🌱 Currently Exploring
+
+JavaScript Projects • TypeScript • React • Node.js • Full-Stack Development
+
+---
+
+### 🚀 Projects & Portfolio
+
+- 🌐 [Personal Portfolio](https://hima-thanki.lovable.app/)
+- 💻 [GitHub Repositories](https://github.com/Hima-Thanki?tab=repositories)
+
+---
+
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimaThanki&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimaThanki&theme=tokyonight" height="150" />
+
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hima-Thanki&theme=tokyonight" />
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hima-Thanki&theme=tokyonight" />
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hima-Thanki&theme=tokyonight" />
+
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hima-Thanki&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hima-thanki-79a108235/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://hima-thanki.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="mailto:thankihima1006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+  <i>✨ Always learning, building and evolving through technology.</i>
 </div>
